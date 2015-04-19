@@ -1,86 +1,20 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML Basic 1.1//EN" "http://www.w3.org/TR/xhtml-basic/xhtml-basic11.dtd">
-
-
-<html xmlns="http://www.w3.org/1999/xhtml">
-  <head>
-    <title>
-      
-        
-          Access Denied - Acc&egrave;s non autoris&eacute;
-        
-      
-    </title>
-    <style type="text/css">
-      body  { }
-      #page { width: 728px; margin: 0 auto; padding: 0; background-color: #FFFFFF; border: 1px solid gray; }
-      #header { background-color: gray; color: black; height: 1.5em; margin: 0; padding: 0 15px; text-align: center; vertical-align: middle; }
-      #footer { background-color: gray; color: black; height: 1.5em; margin: 0; padding: 0 15px; text-align: right; font-size: 75%; }
-      #topBanner { height: 90px; }
-      #bottomBanner { background-color: gray; height: 90px; }
-      #main { text-align: center; }
-      img { }
-      h3 { }
-      div#msgEn { border: 2px solid black; width: 70%; margin: 0 auto 1em auto; }
-      div#msgFr { border: 2px solid black; width: 70%; margin: 0 auto 1em auto; }
-      div#otext { padding: .25em .5em; margin: 0; }
-      .category { font-style: italic; font-weight: bold; color: black; padding-bottom: .25em; }
-      a { text-decoration: none; }
-      a:link { color: #00264C; }
-      a:visited { color: #00264C; }
-      a:active { color: #00264C; }
-      a:hover { color: gray; text-decoration: underline;} /* Green #74BD3B */
-    </style>
-    
-    <link rel="stylesheet" type="text/css" href="/med/dv_css_file/indigo_css_5.css" />
-    
-  </head>
-  <body>
-    <div id="page">
-      <div id="header">Content Control Services</div>
-      <div id="main">
-        
-        <div id="topBanner"><img src="/med/dv_top_banner/indigo_cp_leaderboard_1.png" alt="Top Banner" width="728" height="90" /></div>
-        
-        
-          
-            
-            <div id="msgEn">
-              <h3>Access Denied</h3>
-              
-                <p>Access to <em>TUTORIALS.JUMPSTARTLAB.COM</em> is not permitted as it is classified as:</p>
-              
-              
-              <div class="category">
-                  SPAM
-              </div>
-              
-            </div>
-            
-            
-          
-            
-            
-            <div id="msgFr">
-              <h3>Acc&egrave;s non autoris&eacute;</h3>
-              
-                <p>L&#39;acc&egrave;s &agrave; <em>TUTORIALS.JUMPSTARTLAB.COM</em>  a &eacute;t&eacute; refus&eacute; car elle est class&eacute;e comme:</p>
-               
-              
-              <div class="category">
-                  POURRIEL
-              </div>
-              
-            </div>
-            
-          
-        
-        <div id="otext"></div>
-        
-        <div id="bottomBanner"><img src="/med/base/img/base/datavalet_leaderboard_bottom_banner.png" alt="Bottom Banner" width="728" height="90" /></div>
-        
-      </div>
-      <div id="footer">Copyright &copy; 2015 Datavalet</div>
-    </div>
-  </body>
-</html>
+ ,RegDate,first_Name,last_Name,Email_Address,HomePhone,Street,City,State,Zipcode
+1,11/12/08 10:47,Allison,Nguyen,arannon@jumpstartlab.com,6154385000,3155 19th St NW,Washington,DC,20010
+2,11/12/08 13:23,SArah,Hankins,pinalevitsky@jumpstartlab.com,414-520-5000,2022 15th Street NW,Washington,DC,20009
+3,11/12/08 13:30,Sarah,Xx,lqrm4462@jumpstartlab.com,(941)979-2000,4175 3rd Street North,Saint Petersburg,FL,33703
+4,11/25/08 19:21,David,Thomas,gdlia.lepping@jumpstartlab.com,650-799-0000,9 garrison ave,Jersey City,NJ,7306
+5,2/2/09 11:29,Chris,Sackett,fpmorgan07@jumpstartlab.com,613 565-4000,173 Daly Ave,Ottawa,ON,
+6,11/12/08 15:00,Aya,Fuller,jtex@jumpstartlab.com,778.232.7000,2-1325 Barclay Street,Vancouver,BC,90210
+7,11/12/08 16:05,Mary Kate,Curry,wmppydaymaker@jumpstartlab.com,(202) 328 1000,1509 Jackson Street,Baltimore,MD,21230
+8,11/12/08 17:18,Audrey,Hasegan,ffbbieucf@jumpstartlab.com,530-919-3000,1570 Old Ranch Rd.,Placerville,CA,95667
+9,11/13/08 1:32,Shiyu,Armideo,odfarg06@jumpstartlab.com,8084974000,644 Ikemaka PL,Kailua,HI,96734
+10,11/13/08 16:40,Eli,Zielke,jbrabeth.buckley@jumpstartlab.com,858 405 3000,3024 Cranbrook Ct,La Jolla,CA,92037
+11,11/13/08 18:17,Colin,Harmston,qkristie.lencsak@jumpstartlab.com,14018685000,34 blue heron drive,attleboro,MA,2703
+12,11/13/08 21:19,Megan,Doe,wkganize@jumpstartlab.com,315.450.6000,64 King Ave,Columbus,OH,43201
+13,11/16/08 11:44,Meggie,Tippit,dgsanshamel@jumpstartlab.com,510 282 4000,28 Olive Ave.,Piedmont,CA,94611
+14,11/16/08 13:54,Laura,Rapetsky,ikr08@jumpstartlab.com,787-295-0000,Urb Monte Carlo c/15#1287,San Juan,PR,924
+15,11/16/08 20:20,Paul,Fulghum,cnroh@jumpstartlab.com,9.82E+00,shohadaye sadeghiye,Tehran,YK,14517
+16,11/17/08 19:41,Shannon,Warner,gkjordandc@jumpstartlab.com,(603) 305-3000,186 Crooked S Road,Lyndeborough,NH,3082
+17,11/19/08 21:56,Shannon,Davis,ltb3@jumpstartlab.com,530-355-7000,Campion 1108 914 E. Jefferson,Seattle,WA,98122
+18,11/20/08 16:25,Nash,Okaty,qdansonlm@jumpstartlab.com,206-226-3000,914 E Jefferson ST,Seattle,WA,98122
+19,11/23/08 20:44,Amanda,Hartzell,nqm17@jumpstartlab.com,607-280-2000,3515 School St,Valois,NY,14841
